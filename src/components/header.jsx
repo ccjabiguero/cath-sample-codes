@@ -6,6 +6,7 @@ class Header extends Component{
 		return(
 			<div className="header">
 				<p>Display User Input - App</p>
+				<h6>:)</h6>
 			</div>
 		);
 	}
