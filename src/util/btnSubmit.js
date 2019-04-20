@@ -1,4 +1,5 @@
 export function btnSubmit() {
+    //ADD COMMENTS
     var name, age, gender, male, female;
     name = document.getElementById("inputName").value;
     age = document.getElementById("inputAge").value;
